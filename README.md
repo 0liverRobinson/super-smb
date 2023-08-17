@@ -31,6 +31,7 @@ Prerequisites:
 <ul>
   <li>Linux based operating system (e.g. Kali, Ubuntu, Mint etc...)</li>
   <li>Clang 14.0.6</li>
+  <li>Gtkmm 4.0</li>
 </ul>
 
 # Run
@@ -43,6 +44,5 @@ Prerequisites:
 
 This project uses the following open source libraries and open specifications:
 
-- [Gtkmm](https://www.gtkmm.org/): C++ wrapper for GTK, a library for GUI.
-- [Gtk](https://www.gtk.org): C Gui Library
-- [MS-CIFS](https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-CIFS/[MS-CIFS].pdf) The specification in which this project is based off.
+- [MS-CIFS](https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-CIFS/[MS-CIFS].pdf) - Microsoft Common Internet File System (The specification in which this project is based off)
+- [Gtkmm](https://www.gtkmm.org/): C++ wrapper for GTK, a library for GUI
