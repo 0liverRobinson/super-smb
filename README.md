@@ -29,7 +29,8 @@ Supported Dialects include:
 
 Prerequisites:
 <ul>
-  <li>Debian 12.3.0-5</li>
+  <li>Linux based operating system (e.g. Kali, Ubuntu, Mint etc...)</li>
+  <li>Clang 14.0.6</li>
 </ul>
 
 # Run
