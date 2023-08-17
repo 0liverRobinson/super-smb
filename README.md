@@ -39,4 +39,10 @@ Prerequisites:
   ./supersmb -i ip_addr -u username -p password -s share_name
 </pre>
 
+# Acknowledgements
 
+This project uses the following open source libraries and open specifications:
+
+- [Gtkmm](https://www.gtkmm.org/): C++ wrapper for GTK, a library for GUI.
+- [Gtk](https://www.gtk.org): C Gui Library
+- [MS-CIFS](https://winprotocoldoc.blob.core.windows.net/productionwindowsarchives/MS-CIFS/[MS-CIFS].pdf) The specification in which this project is based off.
